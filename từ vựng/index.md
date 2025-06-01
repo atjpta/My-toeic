@@ -1,0 +1,65 @@
+# 2024 - test 2
+
+- remain: vẫn còn, duy trì
+- along: dọc theo, 1 mình
+- profit: lợi nhuận
+- patron: độc giả, người bảo hộ
+- instantly: ngay lập tức
+- newly: vừa mới
+- early: sớm
+- naturally: 1 cách tự nhiên
+- associated with + N: liên quan tới + N
+- unclear : không rõ ràng
+- properly: đúng
+- according to: theo như
+- prior to: trước đó
+- expect for: mong đợi
+- except: ngoại trừ, ngoại lệ
+- expert: chuyên gia
+- instead of: thay vì
+- preferences/interest: sở thích 
+- accomplishment/Achievement: thành tựu
+- uncertainties: sự không chắc chắn
+- probable / sure / certain / firm / assured / reliable: chắc chắn
+- retire: nghỉ hưu
+- delivery: vận chuyển
+- convenient: thuận tiện
+- inconvenient: bất tiện
+- comfort : thoải mái
+- furthermore: hơn nữa
+- nonetheless: tuy nhiên
+- and yet: chưa hết
+- on the hand: 1 mặt
+- decline: sự suy sụp
+- vary / thay đổi: thay đổi
+- decay: sự phân rã
+- patients: bệnh nhân
+- teammates: đồng đội
+- reasonable: hợp lí
+- insure: bảo hiểm
+- inquiry: câu hỏi
+- promote: thăng chức, quảng cáo, thúc đẩy
+- draw: vẽ / thu hút
+- attention: chú ý
+- underused: ít / chưa sử dụng
+- warranty: bảo hành
+- certification: chứng nhận
+- purpose: mục đích
+- lease: cho thuê
+- agreement: hợp đồng
+- reminder: nhắc nhở
+- renewal / innovation: đổi mới
+- renovation: cải tạo, làm mới, cải tiến
+- property: tài sản
+- negotiate: thương lượng
+- recently: gần đây
+- crate: thùng
+- disruption: sự gián đoạn
+- variety: đa dạng
+- a sharp increase: tăng mạnh
+- situation: tình huống
+- relaxation: nới lỏng
+- affect: ảnh hưởng
+- forecast: dự báo
+- obtain: có được
+- unique need: nhu cầu riêng

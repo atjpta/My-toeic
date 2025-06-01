@@ -65,7 +65,7 @@
 ## Adjectives (Adj - tính từ)
 ### 1. Đứng trước danh từ 
 
-### 2. Đứng sau các động từ nối
+### 2. Đứng sau các từ sau
 - be: thì, là, ....
 - feel: cảm giác
 - seem: có vẻ
