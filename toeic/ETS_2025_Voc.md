@@ -1,0 +1,124 @@
+# ETS Test 3 2025
+
+- enforce: áp dụng, thi hành
+- widest: nhiều, rộng nhất
+- positive: tích cực
+- overall: tổng thể
+- five-star: adj: 5 sao
+- chance: n: cơ hội
+- housewares: n: đồ gia dụng
+- portfolio: n: danh mục mẫu công việc
+- deeply: sâu sắc
+- root of tomato seedling: rễ cây giống cà chua
+- stem: n: thân cây
+- harming: n: tổn thương
+- warranty: n: cam kết bảo hành
+- cover: bao gồm
+- absolute: tuyệt đối
+- efficient: hiệu quả
+- impressive: ấn tượng
+- undefeated: chưa bị đánh bại
+- high-quality: adj: chất lượng cao = top-quality
+- deservedly: xứng đáng
+- commonly: thông thường
+- sincerely: chân thành
+- perfectly: hoàn hảo
+- on behalf of everyone at ...: thay mặt mọi người tại ...
+- continued patronage: sự ủng hộ/bảo trợ liên tục.
+- fragile equipment: thiết bị dễ vỡ
+- that nothing: để không bị
+- behind: phía sau - beside: bên cạnh
+- orientation: n: sự hướng dẫn, sự làm quen, buổi định hướng
+- polite: adj: lịch sự
+- approach: v: tiếp cận
+- claim: v: tuyên bố
+- corporate logo: n: logo doanh nghiệp
+- alongside: cùng với
+- concerned: quan tâm
+- tend: chăm sóc
+- associate: nhân viên = staff = employee
+- handbook: n: cẩm nang
+- embark on: v: bắt đầu
+- profoundly: sâu sắc
+- overly: quá mức
+- intensely: một cách mãnh liệt
+- collaboration: n: sự hợp tắt
+- DUPLICATION: SỰ SAO CHÉP
+- retry: sự tái nhập, tham gia lại
+- turnover: doanh số
+- bidder: n: người thầu
+- certain: chắc chắn, nhất định, xác thực, định rõ, đôi chút
+- exhibition: n: cuộc triển lãm
+- century: n: thế kỷ
+- under: dưới, dưới sự kiểm soát, hướng dẫn của ai đó (serve under)
+- opposite: đối diện
+- owing to: bởi vì, do, nhờ vào
+- surge: n: sự tăng đột ngột
+- demand: n: nhu cầu
+- server: người phục vụ
+- real estate: bất động sản
+- reside: cư trú
+- specialize: v: chuyên, chuyên về
+- toward: giới từ: hướng về, có thể đi cùng đông từ guide
+- segment: phần
+- informed financial decision: quyết định tài chính sáng suốt
+- supplemental: adj: bổ sung, thêm vào
+- playful: adj: tinh nghịch
+- prescribing: ra lệnh, kê đơn
+- listing: lập danh sách, liệt kê
+- hospitality station: trạm tiếp khác
+- after all: suy cho cùng
+- by the way: nhân tiện
+- in the meantime: trong lúc đó
+- on the other hand: mặc khác, ngược lại
+- absence: vắng mặt
+- supervisor: cấp trên
+- urgent: cấp bách
+- matters = issues: vấn đề
+- simplifying: đơn giản hóa
+- constructor: nhà thầu
+- average: trung bình
+- remain: duy trì = maintaining
+- eager: adj: mong chờ
+- any dietary restrictions: bất kỳ hạn chế chế độ ăn uống
+- departure time: thời gian khởi hành
+- revise: sửa đổi, chỉnh sửa
+- office supply store: cửa hàng văn phòng phẩm.
+- variety: n: đa dạng
+- suppliers: n: nhà cung cấp
+- corporate credit card: thẻ tín dụng doanh nghiệp.
+- spring, summer, fall, winter: xuân, hạ, thu, động
+- take advantage of: tận dụng lợi thế
+- near bankruptcy: bờ vực phá sản
+- struggling business: doanh nghiệp khó khăn
+- proof: chứng cứ
+- mixture: hỗn hợp
+- foresight: tầm nhìn
+- viability: bền vững
+- sector: ngành = field
+- under direction: dưới sự chỉ đạo
+- entire: toàn bộ
+- esteemed: adj: được tôn trọng, đáng kính.
+- lifetime: n: trọn đời
+- reliable: adj: đáng tin cậy
+- top-notch: adj: đỉnh cao, xuất sắc
+- straightforward: adj: rõ ràng, dễ hiểu.
+- rental, hire, recruit, engage, employ: thuê
+- fee, cost, charge, expense: phí
+- ingredients: thành phần
+- adapter: bộ chuyển đổi
+- appears: dường như
+- video conference: n: họp trực tuyến
+- viable solution: giải pháp thực tế
+- bulky: adj: cồng kềnh
+- otherwise:adv: nếu không. khác
+- inclement weather: thời tiết khắc nghiệt
+- the club meeting was packed: buổi họp câu lạc bộ đông người.
+- perhaps: có lẽ
+- reasonably priced: giá cả hợp lý
+- revive: v: khôi phục, làm mới, hồi sinh
+- sacrifice: v: hy sinh, từ bỏ
+- perspective: n: góc nhìn, quan điểm
+- disposable: adj: dùng một lần.
+- worthwhile: adj: đáng giá
+- undisclosed: adj: không được tiết lộ.
