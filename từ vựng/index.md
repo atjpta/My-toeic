@@ -31,7 +31,7 @@
 - and yet: chưa hết
 - on the hand: 1 mặt
 - decline: sự suy sụp
-- vary / thay đổi: thay đổi
+- vary / change: thay đổi
 - decay: sự phân rã
 - patients: bệnh nhân
 - teammates: đồng đội
@@ -61,7 +61,7 @@
 - relaxation: nới lỏng
 - affect: ảnh hưởng
 - forecast: dự báo
-- obtain: có được
+- obtain = get: có được
 - unique need: nhu cầu riêng
 
 # 2024 - test 03
@@ -129,7 +129,7 @@
 - real estate: bất động sản
 - reside: cư trú
 - specialize: v: chuyên, chuyên về
-- toward: giới từ: hướng về, có thể đi cùng đông từ guide
+- toward: giới từ: hướng về, có thể đi cùng động từ guide
 - segment: phần
 - informed financial decision: quyết định tài chính sáng suốt
 - supplemental: adj: bổ sung, thêm vào
@@ -146,7 +146,8 @@
 - urgent: cấp bách
 - matters = issues: vấn đề
 - simplifying: đơn giản hóa
-- constructor: nhà thầu
+- constructor: người xây dựng
+- contractor: nhà thầu
 - average: trung bình
 - remain: duy trì = maintaining
 - eager: adj: mong chờ
@@ -192,3 +193,94 @@
 - disposable: adj: dùng một lần.
 - worthwhile: adj: đáng giá
 - undisclosed: adj: không được tiết lộ.
+
+# 2022 - test 04
+
+## 1 số lưu ý
+> Khi trong câu có be và 1 động từ chính (V_3/ed hay V_ing gì cũng được) thì chỗ thiếu kế bên (có thể trước hoặc sau động từ chính) là adv
+
+- panel: hội đồng
+- control panel: bảng điểu khiển
+- public: n: công chúng
+- aerial: trên không
+- notable: đáng chú ý
+- square: hình vuông, quảng trường
+- spin: quay vòng quanh 1 điểm
+- circle: xoay quanh 1 đường tròn
+- roll: cuốn
+- loosen: nới lỏng, giãn ra
+- contain: bao gồm
+- patent: bằng sáng chế
+- constant: adj: không thay đổi
+- constantly: adv: liên tục
+- office supplies: văn phòng phẩm
+- exciting: adj: thú vị
+- excessive: adj: vượt quá mức
+- organize: sắp xếp
+- retrieve: truy xuất
+- irreversibly: không thể đảo ngược
+- vaguely: :adv gần giống
+- vague: :adj không rõ ràng
+- especially: đặc biệt là
+- reveal: tiết lộ
+- propose: đề xuất
+- outlines: bản thảo
+- scheduled: adj: dự kiến
+- maintained: adj: duy trì
+- motivated: adj: động lực
+- experienced: adj: có kinh nghiệm
+- reach: đạt được
+- record: kỉ lục
+- committee: :n hội đồng
+- candidate: ứng viên
+- monitoring: giám sát 
+- several: 1 vài
+- consultant: tư vấn
+- identified: xác định
+- fastened: buột chặt
+- quote: trích dẫn / báo giá
+- terrain: địa hình
+- prove: chứng minh
+- harsh: thô ráp
+- allowance: cho phép / phụ cấp
+- across: khắp
+- across the world: khắp thế giới
+- serious: adj: nghiêm trọng
+- seriously: adv: nghiêm túc
+- within: trong vòng
+- evenly: cuối cùng
+- guarantee: đảm bảo
+- function: v: hoạt động
+- period: giai đoạn
+- agenda: lịch trình
+- defective: khiếm khuyết
+- possible: khả thi, có thể
+- exciting: thú vị
+- temporarily: adv: tạm thời
+- refrigerated: được làm lạnh
+- remodeling: cải tạo, cải tiến
+- confident: tự tin
+- worth: đáng giá, xứng đáng
+- complimentary: miễn phí
+- therefore: vì thế
+- besides: bên cạnh
+- likewise: tương tự
+- unveiled: công bố
+- spokesman: người đại diện phát ngôn
+- botanical: thuộc về thực vật
+- result in / lead to: dẫn tới
+- result form ... : là kết quả, là do ... 
+- to gian: đạt được
+- varietals: giống (hạt giống)
+- flavorful: hương vị
+- nurseries: vườn ươm
+- turned out: hóa ra
+- drought-hardy: chịu hạn
+- breeds: giống loài
+- withstand: chịu đựng
+- sustaining: duy trì
+- sustaining damage: chịu thiệt hại
+- appreciate: đánh giá cao
+- thrive: phát triển mạnh
+- similar: tương tự
+- climate: khí hậu
