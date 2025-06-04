@@ -17,7 +17,7 @@
 - except: ngoại trừ, ngoại lệ
 - expert: chuyên gia
 - instead of: thay vì
-- preferences/interest: sở thích 
+- preferences/interest: sở thích
 - accomplishment/Achievement: thành tựu
 - uncertainties: sự không chắc chắn
 - probable / sure / certain / firm / assured / reliable: chắc chắn
@@ -67,6 +67,7 @@
 # 2024 - test 03
 
 ## Dấu hiệu nhân biết động từ
+
 > có đuôi sau: -ate, -en, -ify, -ise, -ize
 
 - enforce: áp dụng, thi hành
@@ -113,7 +114,7 @@
 - intensely: một cách mãnh liệt
 - collaboration: n: sự hợp tắt
 - DUPLICATION: SỰ SAO CHÉP
-- reetry: sự tái nhập, tham gia lại
+- retry: sự tái nhập, tham gia lại
 - turnover: doanh số
 - bidder: n: người thầu
 - certain: chắc chắn, nhất định, xác thực, định rõ, đôi chút
@@ -121,7 +122,7 @@
 - century: n: thế kỷ
 - under: dưới, dưới sự kiểm soát, hướng dẫn của ai đó (serve under)
 - opposite: đối diện
-- owing to: bởi vì, do, nhờ vào 
+- owing to: bởi vì, do, nhờ vào
 - surge: n: sự tăng đột ngột
 - demand: n: nhu cầu
 - server: người phục vụ
@@ -145,7 +146,7 @@
 - urgent: cấp bách
 - matters = issues: vấn đề
 - simplifying: đơn giản hóa
-- contructor: nhà thầu
+- constructor: nhà thầu
 - average: trung bình
 - remain: duy trì = maintaining
 - eager: adj: mong chờ
@@ -155,7 +156,7 @@
 - office supply store: cửa hàng văn phòng phẩm.
 - variety: n: đa dạng
 - suppliers: n: nhà cung cấp
-- coporate credit card: thẻ tín dụng doanh nghiệp.
+- corporate credit card: thẻ tín dụng doanh nghiệp.
 - spring, summer, fall, winter: xuân, hạ, thu, động
 - take advantage of: tận dụng lợi thế
 - near bankruptcy: bờ vực phá sản
@@ -191,10 +192,3 @@
 - disposable: adj: dùng một lần.
 - worthwhile: adj: đáng giá
 - undisclosed: adj: không được tiết lộ.
-
-
-
-
-
-
-
