@@ -284,3 +284,53 @@
 - thrive: phát triển mạnh
 - similar: tương tự
 - climate: khí hậu
+- instructors: gv hướng dẫn
+- exercise: bài tập
+- intended: dự định
+- accommodate: cung cấp (phòng)
+- please be aware: hãy xin lưu ý
+- alternative: thay thế
+- congest: tắc nghẽn
+- solicit: mời chào
+- regarding: về, liên quan về
+- ripe: chín (trái cay chín)
+- sauce: nước sốt
+- canned: đóng hộp / đồ hộp
+- afraid: sợ, không giám
+- all out: tất cả ra ngoài
+- peppers: ớt chuông
+- instead: thay vào đó
+- treat: v: đối xử n:bữa tiệc
+- pastry: bánh ngọt
+- muffins: bánh nướng xốp
+- season: mùa
+- regular: thường xuyên
+- cast: dàn diễn viên
+- generation: N: thế hệ
+- generated: V: được tạo ra
+- globe: khối càu
+- global: toàn cầu, quốc tế
+- medley of opera: liên khúc opera
+- bustling: nhộn nhịp
+- once-bustling: 1 thời nhộn nhịp
+- manufacturing: chế tạo
+- open-air: ngoài trời
+- pedestrian: đi bộ
+- retail: bán lẻ
+- dozen: tá (hàng tá thứ)
+- outdoor patio: sân ngoài trời
+- demolish: phá hủy, đánh đổ
+- shipyard: xưởng đóng tàu
+- treasure: kho báu
+- labor: công nhân
+- etched: khắc (khắc ghi gì đó)
+- entrance: cổng vào
+- peak: đỉnh cao
+- naval: hải quân
+- gradually : dần dần
+- eventually: sau cùng
+- throughout: khắp
+- recreation: giải trí / tái tạo
+- opportunity: cơ hội
+- legacy: di sản
+- endure: chịu dựng / tồn tại
