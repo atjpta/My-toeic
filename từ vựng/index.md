@@ -334,3 +334,37 @@
 - opportunity: cơ hội
 - legacy: di sản
 - endure: chịu dựng / tồn tại
+- reached: đạt được
+- giveaways: tặng phẩm
+- that's soon: sớm thôi
+- a bit extra: thêm 1 chút
+- fantastic: tuyệt vời
+- rehearsal: diễn tập
+- fund-raised: gây quỹ
+- visibility: tầm nhìn
+- podium: bục giảng
+- aisle: lối đi
+- filings: hồ sơ
+- peaches: quả đào
+- separated: tách ra
+- satisfaction: sự hài lòng
+- sustainability: bền vững
+- quite challenging: khá là thử thách
+- slabs: phiến đá
+- rectangular: hình chữ nhật
+- polish: đánh bóng, làm bóng
+- dimensions: kích thước
+- rotational: luân phiên
+- wandering: lang thang
+- consideration: sự cân nhắc
+- indicate: chỉ ra
+- exterior: bên ngoài
+- complicated: phức tạp
+- trustworthy: đang tin cậy
+- plenty: nhiều
+- eager: háo hức
+- roof: mái nhà
+- degrees: bằng cấp
+- involved: tham gia
+- rollout: ra mắt, triển khai
+- intermission: nghỉ giải lao
