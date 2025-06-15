@@ -7,6 +7,7 @@
   - Chú ý nghe rõ từ để hỏi: what, who, when, where,..
   - Chú ý nghe có câu hỏi đuôi hay không.
   - Lưu ý câu hỏi lựa chọn có or.
+  - Có từ neither, either thường là đáp án cao.
 
 ---
 
