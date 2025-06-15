@@ -1,0 +1,146 @@
+# ETS 2024 Test 4
+
+- taking: lấy
+- presenter: n: người thuyết trình
+- significant distance: khoảng cách đáng kể
+- remedies: phương thuốc, cách điều trị
+- wise: adj: khôn ngoan
+- features: tổ chức, phát, chiếu (phim nhạc)
+- directness: n: sự trực tiếp, ngay thẳng, thành thật
+- organic: adj: hữu cơ
+- versus: prep: chống lại, đấu với
+- best effort: cố gắng hết sức, nỗ lực lớn
+- industrial: adj: công nghiệp
+- mainly: chính, chủ yếu
+- respectively: tương ứng
+- noticeably: đáng chú ý
+- closely: chặc chẽ
+- whoever: p: bất cứ ai
+- manuscript: n: bản thảo
+- probably: adv: có lẽ
+- ambitious: adj: tham vọng
+- following: prep: sau khi
+- toward: prep: về phía
+- takeover: tiếp quản
+- rival chain: chuỗi đối thủ
+- streamline: tối ưu, hợp lý hóa
+- advanced: adj: tiên tiến, trình độ cao
+- janitor: n: người lao động
+- awareness: n: sự nhận thức, đoán trước, phòng bị
+- facilities: cơ sở vật chất
+- infrastructure: n: cơ sở hạ tầng
+- elected: được bầu cử
+- potential clients: khách hàng tiềm năng
+- eligible: adj: đủ điều kiện, đạt chuẩn
+- same-day: cùng ngày
+- slightly: hơi, một chút
+- wholly: toàn bộ
+- busily: bận rộn
+- gladly: vui lòng
+- associate: n: bạn bè, hội viên, kết hợp
+- perform: hiệu suất, biểu diễn, trình bày
+- virtuosic: adj: tài giỏi, điêu luyện
+- calm: adj: bình tĩnh
+- lean: adj: nghiêng
+- controversy: n: tranh cãi
+- evolve: v: tiến hóa, phát triển
+- assist: v: hỗ trợ
+- accessible: adj: có thể truy cập
+- popular right now: phổ biến hiện nay
+- periodic: adj: định kì
+- terms of service: điều khoản dịch vụ
+- encourage: v: khuyến khích
+- refill: v: làm đầy, nạp đầy
+- app freeze of crack: ứng dụng bị treo hoặc gặp sự cố.
+- examine: v: kiểm tra
+- inspect: v: quan sát, thanh tra
+- nothing but: không có gì ngoài ...
+- likewise: tương tự như là
+- suddenly: adv: đột nhiên, bất ngờ
+- appearance: n: ngoại hình
+- strength: n: sức mạnh
+- thus: do đó
+- fuel: nhiên liệu
+- auto parts: phụ tùng ô tô = car products
+- snacks: đồ ăn nhẹ = biscuits
+- route: tuyến đường
+- detour road: đường vòng
+- eager: adj: háo hức, hăng hái
+- properly: adv: đúng cách, đúng đắn
+- via mail: qua email
+- two-day expedited shipping: vận chuyển nhanh hỏa tốc trong vòng 2 ngày
+- society: n: xã hội, cộng đồng
+- outdoor patio: sân/hiên ngoài trời
+- pedestrian: n: người đi bộ
+- treasured: adj: được trân trọng
+- demonlish: v: phá hủy
+- reaction: n: phản ứng
+- landmark: n: biểu tượng
+- functioning: hoạt động
+- complex: adj: phức hợp, khó hiểu
+- opportunity: n: cơ hội
+- recreation: n: giải trí
+- legacy: n: di sản
+- in the peak: thời kỳ đỉnh cao
+- kick off: khởi động, bắt đầu ...
+- waterproof clothes: quần áo chống thấm nước
+- confusing: adj: khó hiểu
+- potluck: tiệc tự chọn = buffet
+- dedication: n: sự cống hiến
+- achieve: v: đạt được (achievement: huy chương, huy hiệu; accomplishment: thành tựu)
+- treat: v: đối xử, đãi (tiệc gì đó)
+- donor: n: người hiến tặng, người đóng góp
+- genre: n: thể loại
+- paperback: n: bìa mềm
+- hardcover: n: bìa cứng
+- satisfy: v: hài lòng, thỏa mãn
+- greet: v: chào đón
+- deface: v: làm hỏng
+- job title: chức vụ
+- backed out at the last minute: rút lui vào phút chót
+- lease: thuê
+- rather: adv: hơn là
+- away on business: đi công tác
+- glad: vui mừng
+- relieved: adj: nhẹ nhõm
+- outstanding!: xuất sắc (trong ý nói)
+- by the way: nhân tiện
+- in person: trực tiếp
+- my pleasure: hân hạnh của tôi
+- especially: adv: một cách đặc biệt
+- easy-to-use: dễ dàng sử dụng
+- mailing list: n: danh sách gửi thư
+- accidentally: adv: vô tình
+- reflect: v: phản ánh
+- regrading: liên quan
+- cap: v: giới hạn
+- screenwriter: n: biên kịch
+- tuition fee: học phí
+- brief persional history: sơ yếu lý lịch ngắn gọn
+- proof of residency form: mẫu đơn chứng minh cư trú
+- autobiographical: n: tự truyện
+- deposit: n: khoản cọc
+- acceptance: n: sự chấp thuận
+- to be pleased to V: hài lòng làm gì ...
+- encourage: v: khuyến khích
+- announce: v: thông báo
+- financial aid: hỗ trợ tài chính
+- via: thông qua
+- foundation: n: tổ chức, sự thành lập
+- banquet: n: tiệc
+- job fair: hội chợ việc làm
+- mile: dặm (đơn vị)
+- approximately: adv: xấp xỉ
+- intended: adj: dự định, nhắm tới
+- original: adj: ban đầu
+- networking dinner: bữa tối xã giao
+- leading provider: nhà phân phối
+- ceramic: gốm
+- porcelain: sứ
+- stone tile: gạch đá
+- bilingual: adj: thông thạo 2 ngôn ngữ
+- reputation: n: danh tiếng
+- effective + [time]: có hiệu lực đến
+- actual: adj: thực tế
+- significant: adj: đáng kể
+- exceed: v: vượt qua
