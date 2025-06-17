@@ -1,0 +1,177 @@
+# ETS 2022 Test 4
+
+### Cấu trúc cần lưu ý
+
+> Khi trong câu có be và 1 động từ chính (V_3/ed hay V_ing gì cũng được) thì chỗ thiếu kế bên (có thể trước hoặc sau động từ chính) là adv
+
+### Từ vựng
+
+- panel: hội đồng
+- control panel: bảng điểu khiển
+- public: n: công chúng
+- aerial: trên không
+- notable: đáng chú ý
+- square: hình vuông, quảng trường
+- spin: quay vòng quanh 1 điểm
+- circle: xoay quanh 1 đường tròn
+- roll: cuốn
+- loosen: nới lỏng, giãn ra
+- contain: bao gồm
+- patent: bằng sáng chế
+- constant: adj: không thay đổi
+- constantly: adv: liên tục
+- office supplies: văn phòng phẩm
+- exciting: adj: thú vị
+- excessive: adj: vượt quá mức
+- organize: sắp xếp
+- retrieve: truy xuất
+- irreversibly: không thể đảo ngược
+- vaguely: :adv gần giống
+- vague: :adj không rõ ràng
+- especially: đặc biệt là
+- reveal: tiết lộ
+- propose: đề xuất
+- outlines: bản thảo
+- scheduled: adj: dự kiến
+- maintained: adj: duy trì
+- motivated: adj: động lực
+- experienced: adj: có kinh nghiệm
+- reach: đạt được
+- record: kỉ lục
+- committee: :n hội đồng
+- candidate: ứng viên
+- monitoring: giám sát
+- several: 1 vài
+- consultant: tư vấn
+- identified: xác định
+- fastened: buột chặt
+- quote: trích dẫn / báo giá
+- terrain: địa hình
+- prove: chứng minh
+- harsh: thô ráp
+- allowance: cho phép / phụ cấp
+- across: khắp
+- across the world: khắp thế giới
+- serious: adj: nghiêm trọng
+- seriously: adv: nghiêm túc
+- within: trong vòng
+- evenly: cuối cùng
+- guarantee: đảm bảo
+- function: v: hoạt động
+- period: giai đoạn
+- agenda: lịch trình
+- defective: khiếm khuyết
+- possible: khả thi, có thể
+- exciting: thú vị
+- temporarily: adv: tạm thời
+- refrigerated: được làm lạnh
+- remodeling: cải tạo, cải tiến
+- confident: tự tin
+- worth: đáng giá, xứng đáng
+- complimentary: miễn phí
+- therefore: vì thế
+- besides: bên cạnh
+- likewise: tương tự
+- unveiled: công bố
+- spokesman: người đại diện phát ngôn
+- botanical: thuộc về thực vật
+- result in / lead to: dẫn tới
+- result form ... : là kết quả, là do ...
+- to gian: đạt được
+- varietals: giống (hạt giống)
+- flavorful: hương vị
+- nurseries: vườn ươm
+- turned out: hóa ra
+- drought-hardy: chịu hạn
+- breeds: giống loài
+- withstand: chịu đựng
+- sustaining: duy trì
+- sustaining damage: chịu thiệt hại
+- appreciate: đánh giá cao
+- thrive: phát triển mạnh
+- similar: tương tự
+- climate: khí hậu
+- instructors: gv hướng dẫn
+- exercise: bài tập
+- intended: dự định
+- accommodate: cung cấp (phòng)
+- please be aware: hãy xin lưu ý
+- alternative: thay thế
+- congest: tắc nghẽn
+- solicit: mời chào
+- regarding: về, liên quan về
+- ripe: chín (trái cay chín)
+- sauce: nước sốt
+- canned: đóng hộp / đồ hộp
+- afraid: sợ, không giám
+- all out: tất cả ra ngoài
+- peppers: ớt chuông
+- instead: thay vào đó
+- treat: v: đối xử n:bữa tiệc
+- pastry: bánh ngọt
+- muffins: bánh nướng xốp
+- season: mùa
+- regular: thường xuyên
+- cast: dàn diễn viên
+- generation: N: thế hệ
+- generated: V: được tạo ra
+- globe: khối càu
+- global: toàn cầu, quốc tế
+- medley of opera: liên khúc opera
+- bustling: nhộn nhịp
+- once-bustling: 1 thời nhộn nhịp
+- manufacturing: chế tạo
+- open-air: ngoài trời
+- pedestrian: đi bộ
+- retail: bán lẻ
+- dozen: tá (hàng tá thứ)
+- outdoor patio: sân ngoài trời
+- demolish: phá hủy, đánh đổ
+- shipyard: xưởng đóng tàu
+- treasure: kho báu
+- labor: công nhân
+- etched: khắc (khắc ghi gì đó)
+- entrance: cổng vào
+- peak: đỉnh cao
+- naval: hải quân
+- gradually : dần dần
+- eventually: sau cùng
+- throughout: khắp
+- recreation: giải trí / tái tạo
+- opportunity: cơ hội
+- legacy: di sản
+- endure: chịu dựng / tồn tại
+- reached: đạt được
+- giveaways: tặng phẩm
+- that's soon: sớm thôi
+- a bit extra: thêm 1 chút
+- fantastic: tuyệt vời
+- rehearsal: diễn tập
+- fund-raised: gây quỹ
+- visibility: tầm nhìn
+- podium: bục giảng
+- aisle: lối đi
+- filings: hồ sơ
+- peaches: quả đào
+- separated: tách ra
+- satisfaction: sự hài lòng
+- sustainability: bền vững
+- quite challenging: khá là thử thách
+- slabs: phiến đá
+- rectangular: hình chữ nhật
+- polish: đánh bóng, làm bóng
+- dimensions: kích thước
+- rotational: luân phiên
+- wandering: lang thang
+- consideration: sự cân nhắc
+- indicate: chỉ ra
+- exterior: bên ngoài
+- complicated: phức tạp
+- trustworthy: đang tin cậy
+- plenty: nhiều
+- eager: háo hức
+- roof: mái nhà
+- degrees: bằng cấp
+- involved: tham gia
+- rollout: ra mắt, triển khai
+- intermission: nghỉ giải lao

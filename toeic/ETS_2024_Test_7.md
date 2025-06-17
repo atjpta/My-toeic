@@ -11,7 +11,7 @@
 - eagerly: 1 cách hào hứng
 - sharply: 1 cách chính xác
 - voluntarily: 1 cách tự nguyện
-- rapidly: 1 cách nhanh chóng 
+- rapidly: 1 cách nhanh chóng
 - commercial: quảng cáo
 - accurate: chính xác
 - intersection: giao lộ
@@ -30,7 +30,7 @@
 - regular: thường xuyên
 - vegetables: rau
 - accordance: theo như, tuân theo
-- recognition: ghi nhận, công nhận 
+- recognition: ghi nhận, công nhận
 - dedication: cống hiến, tận tâm
 - exclusive: độc quyền
 - rather: hơn là
@@ -38,7 +38,7 @@
 - capacity: sức chứa, công suất
 - fortunately: may thay
 - for instance: ví dụ
-- caution: cẩn thận 
+- caution: cẩn thận
 - extreme: vô cùng
 - moderate: giảm nhẹ, tiết chế
 - biography: tiểu sử

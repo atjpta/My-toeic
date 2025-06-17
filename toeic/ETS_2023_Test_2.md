@@ -1,0 +1,112 @@
+# ETS 2023 Test 2
+
+### Một số cấu trúc cần lưu ý
+
+> S + be / V + so + adj/adv + that + S + V
+
+> so ... that ... : quá ... đến nỗi mà ...
+
+### Từ vựng
+
+- presentation: thuyết trình
+- workplace: nơi làm việc
+- noon: trưa
+- significant: lớn, đang chú ý
+- wise: khôn ngoan
+- remedies: phương thuốc, cách điều trị
+- versus: chống lại, đấu với
+- soon after: ngay sau khi
+- respectively: tương ứng
+- closely: chặt chẽ
+- takeover: tiếp quản
+- reval: đối thủ
+- determine: xác định
+- janitors: lao công
+- term: nhiệm kì
+- elected: được bầu cử
+- paid: trả tiền
+- eligible: đủ tư cách, điều kiện
+- slightly: hơn 1 chút
+- wholly: toàn bộ
+- busily: bận
+- gladly: vui lòng
+- prior: trước
+- quick: nhanh
+- lean: nghiêng
+- clam: bình tĩnh
+- experiment: thử nghiệm
+- constantly: liên tục
+- apparel: phụ kiện
+- periodic: định kì
+- encourage: khuyến khích
+- controversies: tranh cãi
+- privacy: bảo mật
+- no longer effect: không con hiệu quả
+- accessible: có sẵn
+- rescue: cứu
+- borrow: mượn
+- examine: kiểm tra
+- dismissed: bị sa thải
+- instead: thay vào đó
+- likewise: tương tự
+- suddenly: đột nhiên, bất ngờ
+- range: loại
+- appearance: ngoại hình
+- thus: do đó
+- even: ngay cả khi
+- inquiries: hỏi
+- celebrate: kỉ niệm
+- external: bên ngoài
+- attempted: cố gắng
+- weakened: suy yếu
+- prefers: thích, muốn
+- comprehensive: toàn diện
+- appeal: thu hút
+- refer: tham khảo
+- whether: liệu
+- as : bởi vì / khi / như
+- acquiring: mua lại
+- plain: đơn giản
+- usual: thông thường
+- internal: nội bộ
+- evaluate: đánh giá
+- consider: cho rằng
+- consequently: do đó, vì vậy
+- yield: sinh ra, mang lại
+- submit: nộp
+- invent: phát mình
+- perspective: quan điểm, góc nhìn
+- belief: miền tin
+- movement: di chuyển, phòng trào
+- proportion: tỉ lệ
+- prevent: ngăn chặn
+- distracting: sao nhãng
+- almost: gần như
+- whereas: trong khi
+- only if: nếu
+- presents: trình bày
+- comparison: so sánh
+- pronouncement: công bố
+- guideline: hướng dẫn
+- publicity: công khai
+- expectantly:
+- particularly: đặc biệt là
+- avoidably: tránh được
+- judged: đánh giá
+- appreciated: trân trọng
+- contest: cuộc thi
+- make a contribution: đóng góp
+- precious: quý giá
+- accidental: tình cờ
+- generous: rộng lượng
+- imported: nhập khẩu
+- thrill: hào hứng
+- even though: mặc dù
+- pressure: áp lực
+- industrial equipment: thiết bị công nghiệp
+- our adaptation: chuyển thể
+- ballet: múa ba lê
+- dental: nha sĩ
+- desired: mong muốn
+- insurance: bảo hiểm
+- waterfront: bờ sông
