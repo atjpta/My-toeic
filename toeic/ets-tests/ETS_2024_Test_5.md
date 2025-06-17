@@ -17,7 +17,7 @@
 - whole: tất cả, toàn bộ
 - closet: tủ quần áo
 - elevator, stairs, ladder: thang máy, thang bộ, thang cầm tay
-- jacket:áo khoát
+- jacket: áo khoác
 - piano recital: buổi biểu diễn
 - lumber: đồ gỗ
 - hiking: đi bộ đường dài

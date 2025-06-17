@@ -105,4 +105,4 @@
 - rates of pay: mức lương
 - 164: now able to enroll: bây giờ có thể đăng ký ...
 - 168: buy one, get one 50% off: mua một, giảm giá 50% cho cuốn thứ 2 -> mua 2 cuốn sẽ giảm giá
-- medical: ý tế = family physicains (bác sĩ gia đình)
+- medical: ý tế = family physicians (bác sĩ gia đình)

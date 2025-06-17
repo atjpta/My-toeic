@@ -73,7 +73,7 @@
 - outdoor patio: sân/hiên ngoài trời
 - pedestrian: n: người đi bộ
 - treasured: adj: được trân trọng
-- demonlish: v: phá hủy
+- demolish: v: phá hủy
 - reaction: n: phản ứng
 - landmark: n: biểu tượng
 - functioning: hoạt động
@@ -116,7 +116,7 @@
 - cap: v: giới hạn
 - screenwriter: n: biên kịch
 - tuition fee: học phí
-- brief persional history: sơ yếu lý lịch ngắn gọn
+- brief personal history: sơ yếu lý lịch ngắn gọn
 - proof of residency form: mẫu đơn chứng minh cư trú
 - autobiographical: n: tự truyện
 - deposit: n: khoản cọc
