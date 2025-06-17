@@ -4,6 +4,10 @@
 
 > N_ người + who + V
 
+> Anyone + who + V_s/es (chú ý xem V đang số ít hay nhiều)
+
+> Those + who + V (chú ý xem V đang số ít hay nhiều)
+
 ## Whom
 
 > N_ người + whom + S + V

@@ -1,0 +1,47 @@
+# ETS 2022 Test 7
+
+## RC
+
+- admission: vào cổng, cho phép
+- waiver: miễn trừ
+- now that / because: bởi vì
+- willing: sẵn sàng
+- concerned + about: quan tâm, lo về
+- overdue: quá hạn
+- opposite: đối diện
+- beneath: bên dưới
+- inside: bên trong
+- into: trong nơi nào đó
+- during: trong khi (thời gian nào đó)
+- background: lí lịch (kể về bản thân nhưng không phải giấy tờ)
+- paperwork: giấy tờ làm việc (kiểu như cv)
+- publication: xuất bản
+- due to / because of + N: bởi vì
+- reflect: phản ánh
+- ambition: tham vọng
+- statement: tuyên bố, xác nhận
+- later: sau này
+- forgetfully: quen
+- together: cùng nhau
+- normally: thường
+- negotiate: thương lượng
+- indeed: thật sự
+- correct: sửa lỗi
+- sensibly: hợp lí
+- perfectly: hoàn hảo
+- tightly: chặt
+- closely: kĩ lưỡng
+- demand: yêu cầu 
+- nevertheless: tuy nhiên
+- intrigued: tò mò, thích thú
+- convinced: thuyết phục
+- aid: hỗ trợ 
+- determine: xác minh
+- quotes: báo giá / trích dẫn
+- permitted: được phép
+- acknowledge: công nhận
+- solicit: thu hút
+- bids: thầu dự án
+- fares: tiền vé xe
+- hospitality industry: ngành dịch vụ
+- qualifications include: yêu cầu bằng cấp 
