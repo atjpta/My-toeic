@@ -1,5 +1,89 @@
 # ETS 2024 Test 7
 
+### LC
+
+- hook: n: cái móc quần áo
+- rest: v: đặt trên
+- stool: ghế đẩu
+- balconies: n: ban công
+- banners: biểu ngữ (banner: cờ)
+- lawn: bãi cỏ
+- sidewall: vỉa hè
+- city square: quảng trường thành phố
+- curtain: tấm rèm cửa
+- floral arrangements: sắp xếp hoa
+- press release: thông cáo báo chí
+- outreach coordinator: điều phối viên tiếp cận
+- haircut: n: cắt tóc
+- fresh air: không khí trong lành
+- by the end of the week: vào cuối tuần
+- the loading dock: bến tàu bốc hàng
+- last season's merchandise: hàng hóa mùa trước
+- weather report: dự báo thời tiết
+- heater: n: lò sưởi
+- most of the work: hầu hết công việc
+- supply closet: tủ cung cấp
+- handout: tờ rơi
+- flat tire: xẹp lốp xe
+- mandatory training: khóa đào tạo bắt buột.
+- stuff: n: đồ đạt trong nhà
+- bank teller: nhân viên giao dịch ngân hàng
+- mail carrier: người đưa thư
+- overdue: adj: quá hạn
+- card reader: đầu đọc thẻ
+- malfunction: n: sự cố
+- packing garage: nhà xe
+- nature preserve: khu bảo tồn thiên nhiên
+- entire: adj: toàn bộ
+- postal worker: nhân viên bưu điện
+- postal delivery fleet: đội tàu chuyển phát bưu chính (vận chuyển đường thủy)
+- flyer: tời rơi
+- accurate: adj: chính xác
+- vendor: nhà cung cấp, người bán
+- demonstrate: chỉ dẫn, hướng dẫn = show
+- order food to go: đặt đồ ăn mang đi
+- aerobics class: lớp thể dục nhịp điệu
+- densely populated area: khu vực dân cư đông đúc
+- campground: khu vực cắm trại
+- footwear factory: nhà máy giày dép
+- fitness center: trung tâm thể hình
+- property values: giá trị tài sản
+- reserve: v: đặt trước
+- agenda: chương trình nghi sự, nhật ký (= diary)
+- wheelchair: xe lăn
+- faulty product: sản phẩm bị lỗi
+- food court is open daily: khu ẩm thực mở cửa cả ngày
+- investor: nhà đầu tư
+- boarding pass: thẻ lên máy bay
+- rumor: n: tin đồn
+- gained exclusive access: quyền truy cập độc quyền.
+- contractor: n: nhà thầu
+- news reporter: phóng viên tin tức
+- bid: n: đấu giá (bididing: đấu thầu)
+- entrepreneur: n: doanh nhân
+- campus: cơ sở
+- thanks for taking care of that: cảm ơn đã quan tâm đến điều đó.
+- clinic: n: phòng khám
+- obtain: v: đạt được
+- demonstration: n: biểu tình (demonstrate: v: chứng minh)
+- plenty of inventory: rất nhiều hàng tồn kho
+- household task: công việc gia đình
+- satellite dish: đĩa vệ tinh (để truy cập Internet)
+- take some measurements: thực hiện một số phép đo
+- usher: n: giám thị, trợ giảng
+- patron: n: khách hàng (khách quen), người ủng hộ
+- separate project: dự án riêng biệt
+- conserve energy: tiết kiệm năng lượng
+- carbon footprint: lượng khí thải nhà kính (CO2)
+- to stress the importance of ...: nhấn mạnh tầm quan trọng của ...
+- misconception: quan niệm sai lầm
+- weekly briefing: họp giao ban (họp ngắn gọn)
+- car carrier: xe chở ô tô
+- holiday parade: diễu hành vào ngày lễ
+- live musical performance: biểu diễn nhạc sống.
+
+### RC
+
 - passengers: hành khách
 - the film crew: đoàn làm phim
 - negotiations: đàm phán

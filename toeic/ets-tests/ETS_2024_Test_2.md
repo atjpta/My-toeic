@@ -9,7 +9,7 @@
 - early: sớm
 - naturally: 1 cách tự nhiên
 - associated with + N: liên quan tới + N
-- unclear : không rõ ràng
+- unclear: không rõ ràng
 - properly: đúng
 - according to: theo như
 - prior to: trước đó
@@ -18,14 +18,14 @@
 - expert: chuyên gia
 - instead of: thay vì
 - preferences/interest: sở thích
-- accomplishment/Achievement: thành tựu
+- accomplishment / achievement: thành tựu
 - uncertainties: sự không chắc chắn
 - probable / sure / certain / firm / assured / reliable: chắc chắn
 - retire: nghỉ hưu
 - delivery: vận chuyển
 - convenient: thuận tiện
 - inconvenient: bất tiện
-- comfort : thoải mái
+- comfort: thoải mái
 - furthermore: hơn nữa
 - nonetheless: tuy nhiên
 - and yet: chưa hết
