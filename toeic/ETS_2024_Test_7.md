@@ -1,0 +1,44 @@
+# ETS 2024 Test 7
+
+- passengers: hành khách
+- the film crew: đoàn làm phim
+- negotiations: đàm phán
+- tightly: 1 cách xa xôi
+- measures: biện pháp
+- grounds: lí do
+- impose: bắt buộc
+- encourage: khuyến khích
+- eagerly: 1 cách hào hứng
+- sharply: 1 cách chính xác
+- voluntarily: 1 cách tự nguyện
+- rapidly: 1 cách nhanh chóng 
+- commercial: quảng cáo
+- accurate: chính xác
+- intersection: giao lộ
+- formal: chính thức
+- refrain: kiềm chế, hạn chế
+- forbid: nghiêm cấm
+- retreat: rút lui
+- hesitate: do dự
+- propose: đề xuất
+- grant: tài trợ
+- immediately: ngay lập tức
+- or else: nếu không thì
+- as long as: miễn là
+- as well as: cũng như là
+- in between: ở giữa
+- regular: thường xuyên
+- vegetables: rau
+- accordance: theo như, tuân theo
+- recognition: ghi nhận, công nhận 
+- dedication: cống hiến, tận tâm
+- exclusive: độc quyền
+- rather: hơn là
+- similarly: tương tự
+- capacity: sức chứa, công suất
+- fortunately: may thay
+- for instance: ví dụ
+- caution: cẩn thận 
+- extreme: vô cùng
+- moderate: giảm nhẹ, tiết chế
+- biography: tiểu sử
