@@ -1,15 +1,124 @@
-# ETS 2024 Test 7
-
-### Part 1
-
-### Part 2
-
-### Part 3
-
-### Part 4
+# ETS 2024 Test 9
 
 ### Part 5
 
+- calm: adj: bình tĩnh
+- dispute: n: cuộc tranh luận
+- maintain: n: bảo trì, duy trì
+- logistical: adj: hậu cần
+- client files: hồ sơ khách hàng
+- childhood: n: thời thơ ấu
+- produce: v: sản xuất
+- play and musical: vở kịch và nhạc kịch
+- audiences: n: khán giả
+- actor: n: diễn viên
+- cover travel expenses: trang trãi chi phí đi lại
+- associates: n: cộng sự
+- effective: adj: hiệu quả
+- Ltd: Trách Nhiệm Hữu Hạn (TNHH)
+- outcomes: kết quả
+- corrections: điều chỉnh
+- grades: điểm
+- isolated areas: khu vực bị cô lập
+- community clinic: phòng khám công cộng
+- impress: v: gây ấn tượng
+- skillfully: khéo léo
+- obviously: adv: rõ ràng, hiển nhiên
+- richly: dồi dào, phong phú.
+- theory: lý thuyết
+- status: tình trạng
+- accountable: adj: có trách nhiệm, chịu trách nhiệm
+- manageable: adj: có thể quản lý, kiểm soát
+- knowledgeable: adj: am hiểu, có hiểu biết
+- resulting: adj: kết quả, phát sinh
+- folk stories: truyện dân gian
+- influence: v: làm ảnh hưởng
+- flock: v: đổ xô đến, tụ hợp
+- line: lộ trình (= route, distance)
+- off-season: mùa thấp điểm (= slow-season)
+- overall: adj: chung (adv: nhìn chung)
+- residential units: đơn vị nhà ở
+- intend: v: có ý định
+- revolutionize: v: cách mạng hóa
+- payroll: lương bổng, bảng lương
+- central: yếu tố then chốt
+- memorable presentation: bài thuyết trình đáng nhớ
+- critic: nhà phê bình
+- seamlessly: adj: một cách liền mạch
+- collectively: chung, theo tập thể
+- factually: theo thực tế
+
 ### Part 6
 
+- storyteller: người kể chuyện
+- airing: phát sóng
+- even so: adv: ngay cả như vậy
+- follow: theo sau
+- handbag: túi xách
+- eager: adj: mong muốn, háo hức
+- seamsters: thợ may
+- compensate: v: đền bù
+- objective: n: mục tiêu
+- capacity: n: công suất
+
 ### Part 7
+
+- secret recipe: công thức bí mật
+- sequences: trình tự
+- motivate: v: truyền động lực
+- admire: v: ngưỡng mộ
+- particularly vulnerable: đặc biệt dễ bị thiệt hại, tổn thương
+- freight: n: vận chuyển hàng hóa
+- clerk: n: nhân viên văn phòng
+- institute: n: viện nghiên cứu
+- reaches out: với tay/liên hệ
+- get ready: chuẩn bị sẵn sàng
+- fabricate: v: chế tạo
+- technical drawing: bản vẽ kỹ thuật
+- independently: adv: độc lập (part of a team: theo nhóm)
+- pamphlet: giấy rời nhỏ (= flyer, brochure: tờ rơi)
+- erect: v: dựng đứng, xây dựng
+- entrance: lối vào
+- sign: tấm biển
+- realize: v: nhận ra
+- tent: liều
+- welcome table: bàn chào mừng
+- exceed: v: vượt quá
+- comprehensive: adj: toàn diện
+- passenger lounge: phòng chờ hành khách
+- overhaul: v: cải tổ, sửa lại
+- fleet: n: đoàn tàu, đoàn xe
+- aim: n, v: mục tiêu; hướng tới, nhắm tới
+- company executive: n: nhà quản lý doanh nghiệp
+- surpassed: vượt qua
+- perfected: hoàn thiện
+- panoramic: adj: toàn cảnh, rộng lớn
+- ventilation: n: hệ thống thông gió
+- work off-site: làm việc ngoài công trường
+- disruption: n: sự gián đoạn
+- situation: n: tình hình
+- commonplace: n: điều phổ biến
+- adopt: v: áp dụng, thực hiện
+- approach: v: tiếp cận
+- tailor: v: điều chỉnh = customize: v
+- mindful: adj: tỉnh thức, chú ý
+- essential: adj: quan trọng, cần thiết
+- protective gear: n: trang thiết bị bảo vệ
+- deep knowledge = comprehensive knowledge: kiến thúc sâu sắc/toàn diện
+- personality: tính cách
+- casual tourist: khách du lịch bình thường
+- safety inspectors: thanh tra an toàn
+- cast: n: đội ngũ diễn viên
+- crew: n: đoàn đội
+- cuisine: n: ẩm thực
+- dietary: n: chế độ dinh dưỡng
+- restriction: n: hạn chế
+- arise: v: nảy sinh
+- accommodate: v: chứa đựng, đáp ứng
+- easygoing: adj: dễ tính, thoải mái
+- spare time: thời gian rảnh rỗi
+- sediment: n: cặn
+- flush: v: xả nước
+- faucet: n: vòi sen
+- mineral: n: khoáng chất
+- hesitate: v: do dự
