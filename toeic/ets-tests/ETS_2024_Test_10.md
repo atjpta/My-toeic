@@ -1,0 +1,151 @@
+# ETS 2024 Test 10
+
+### Part 5
+
+- strictly: adv: nghiêm ngặt
+- bitterly: adv: cay đắng
+- sizably: adv: đáng kể (chỉ mức độ lớn)
+- colorfully: adv: đầy màu sắc
+- prohibit: v: cấm
+- highly value: đánh giá cao
+- lift: v: nâng lên
+- fill: v: làm đầy / cung cấp
+- prescription: n: đơn thuốc
+- opposite: adj: đối diện
+- rainstorm: trận mưa bão
+- surround: v: bao quanh
+- water station: trạm cấp nước
+- modern: adj: hiện đại
+- scenic: adj: cảnh đẹp thiên nhiên
+- charitable donations: quyên góp từ thiện
+- strongly: adv: mạnh mẽ
+- excess: n: dư thừa, thặng dư
+- dealing with: đối mặt với
+- luxury item: hàng xa xỉ
+- confidence: sự tự tin
+- tax policy reform: cải cách chính sách thuế
+- advocate: n: người ủng hộ
+- oversee: v: giám sát, quản lý
+- franchises: nhượng quyền thương mại
+- impress: v: ấn tượng
+- legal department: phòng pháp lý
+- distribution: dự phân phối
+- accessibly: dễ dàng tiếp tục, tiếp cận
+- abundantly: adv: dồi dào
+- briefly: adv: ngắn gọn, nhanh chóng
+- momentarily: adv: trong một khoảng khắc, tạm thời
+- stress: v: nhấn mạnh
+- judgmental: adj: đánh giá phán đoán
+- substantial: adj: đáng kể
+- magnetic: adj: từ tính
+- chaotic: adj: hỗn loạn
+- enthusiastic: adj: nhiệt tình
+- whichever: bất kỳ
+- poem: n: bài thơ
+- edition: phiên bản
+- refer: tham khảo, đề cập
+- adapt: thích nghi
+- elect: bầu cử
+- productivity: n: năng suất làm việc
+- soliciting suggestion: thu thập / kêu gọi đóng góp / ý kiến
+- regarding: về
+- besides: ngoài ra
+- banquet room: phòng tiệc
+- supplement: bổ sung
+- consequence: hậu quả
+- responsibility: n: trách nhiệm
+
+### Part 6
+
+- imposing structure: thiết kế hoành tráng
+- abandon: v: bỏ hoang, bỏ rơi
+- conversely: adv: ngược lại
+- experiencing: trãi nghiệm, trải qua
+- corrupted: bị hỏng
+- patience: n: sự kiên nhẫn, nhẫn nại
+- to this end: để đạt được kết quả, để đi đến kết quả.
+- transformer: n: máy biến áp
+- neighborhood: n: hàng xóm
+- residence: chổ ở, nơi cư trú
+- **by doing something**: bằng cách làm gì đó ...
+- as well as: cũng như (as good as: tốt như)
+- privacy: n: quyền riêng tư
+- intend: v: có ý định
+- otherwise: nếu không
+
+### Part 7
+
+- office complex: khu phức hợp văn phòng = office park: khu văn phòng
+- clog: v: gây tắt nghẽn (unclog: thông tắt)
+- probably: adv: có lẻ
+- sink: n: bồn rửa mặt
+- custodian: n: người giám hộ
+- brighter: sáng hơn
+- more inviting: hấp dẫn hơn
+- cover: n: bìa sách
+- flourish: v: phát triển nhanh
+- demanding: adj: đòi hỏi khắt khe
+- busy setting: môi trường bận rộn
+- service: v: bảo trì
+- quart: n: đơn vị lít
+- value-added tax: n: thuế giá trị gia tăng
+- call for: v: yêu cầu
+- functioning: hoạt động
+- renowned: adj: nổi tiếng
+- forthcoming: adj: sắp tới
+- innovative: phát triển (= create)
+- biofuel: nhiên liệu sinh học (like E2 fuel)
+- so far this year: từ đầu năm đến nay
+- wages: lương
+- lighthouse: n: ngọn hải đăng
+- landmark: n: địa danh
+- pass up: v: bỏ qua
+- anyway: dù sao
+- demolition: n: sự phá dỡ
+- preservation: n: sự bảo tồn
+- a thing of the past: chuyện của quá khứ
+- carry out: tiến hành
+- decline in business: sự suy giảm trong kinh doanh
+- recognize: v: nhận ra
+- significance: tầm quan trọng
+- treatment: n: xử lý
+- put together: v: hoàn thành, mang lại
+- shade: n: sắc thái
+- drape: n: màn
+- subcontract: v: phụ thầu
+- tailor: v: may, thiết kế
+- measure: v: đo đạt
+- quoted price: giá niêm yết
+- refinance: v: tái cấp vốn
+- workforce: n: lực lượng lao động
+- infrastructure: n: cơ sở hạ tầng
+- velocity: n: vận tốc
+- diverse: adj: phong phú
+- foster: v: thúc đẩy
+- buy-in: n: ủng hộ (mua bán)
+- facilitate: v: hướng dẫn
+- novice: n: mới vào nghề
+- key: chính, chủ chốt (key members, key player)
+- nestle: v: nép mình
+- credit: v: tin vào
+- shampoo: n: dầu gội đầu
+- lotion: n: kem dưỡng dạng lỏng
+- gourmet: n: người sành điệu
+- toiletries: n: đồ vệ sinh cá nhân
+- pillowcase: n: vỏ gối
+- lifelong learning: học tập suốt đời (học, học nữa, học mãi)
+- regret: v: hối tiếc (n: sự hối hận)
+- pecan: n: quả hồ đào (không phải quả óc chó nhé (walnut: óc chó))
+- stay tuned: tiếp tục theo dõi
+- flock: v: đổ xô
+- cone: n: hình nón
+- momentum: n: quán tính / sự thu hút
+- treat: n: đồ ăn
+- contrast: n: ngược lại
+- preach: v: thuyết giảng
+- puzzle: n: câu đố
+- coalition: n: sự liên minh
+- summit: n: hội nghị thượng đỉnh
+- hotelier: n: chủ khách sạn
+- venture: n: sự mạo hiểm
+- capital: n: vốn
